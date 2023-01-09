@@ -1,11 +1,18 @@
-body {
-    background-color: #222;
-    color: #eee;
-
-    width: 16rem;
-    height: 4rem;
+html, body {
+    background-color: #00171C;
+    color: #F0F8FF;
+ 
 }
 
-.special-text {
-    color: red;
+img {
+    border-style: outset;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 5px;
+}
+
+h1, h2 {
+    font-family: "Lucida Console", "Courier New", monospace;
+    text-align: center;
 }
